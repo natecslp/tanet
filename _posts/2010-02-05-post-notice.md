@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Planeación semestral"
 categories:
   - Blog
 tags:
