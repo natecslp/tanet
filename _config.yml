@@ -55,9 +55,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+header:
+  image: /assets/images/natecban.png
+
 author:
   name   : "NaTec"
-  avatar : "/assets/images/bio-photo.png"
+  logo: "/assets/images/popjs.png
   bio    : "Grupo estudiantil de ciencias naturales, Tec SLP. Aplicando ciencia y tecnología de hoy para el mañana."
   links:
     - label: "GitHub"
@@ -66,6 +69,11 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/natecslp/"
+      
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 footer:
   links:
