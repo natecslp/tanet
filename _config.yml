@@ -61,9 +61,6 @@ author:
   name   : "NaTec"
   bio    : "Grupo estudiantil de ciencias naturales, Tec SLP. Aplicando ciencia y tecnología de hoy para el mañana."
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/natecslp/"
