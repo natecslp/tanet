@@ -9,5 +9,5 @@ title: "Ranking"
    | Estudiante | Número de asistencias | Lugar en el ranking |
    |---|---|---|
    | Gerardo Eustorgio Meza García |  2 | 1 |
-   | Marco Antonio Vera Tapía  |  1 | 2 |
-   | Zianya Castillo Martinez |  0 | 3 |
+   | Zianya Castillo Martinez |  2 | 1 |
+   | Marco Antonio Vera Tapía  |  1 | 3 |
