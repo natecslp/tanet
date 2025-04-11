@@ -1,13 +1,13 @@
 ---
 permalink: /rankq/
-title: "Rsnkc"
+title: "Ranking"
 ---
-## Potion Recipes
+## Asistencias
 
-   Here are some common potion recipes:
+   En esta tabla se encuentran los integrantes de NaTec y sus asistencias:
 
-   | Potion Name | Main Ingredient | Effect |
+   | Estudiante | Número de asistencias | Lugar en el ranking |
    |---|---|---|
-   | Healing Potion |  Herb | Restores Health |
-   | Strength Potion |  Crystal | Increases Strength |
-   | Speed Potion |  Fairy Dust | Increases Speed |
+   | Gerardo Eustorgio Meza García |  2 | 1 |
+   | Marco Antonio Vera Tapía  |  1 | 2 |
+   | Zianya Castillo Martinez |  0 | 3 |
