@@ -1,6 +1,7 @@
 ---
 permalink: /rankq/
 title: "Ranking"
+layout: single
 ---
 ## Asistencias
 

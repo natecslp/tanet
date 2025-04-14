@@ -23,9 +23,12 @@ Good headings:
 ## Primera semana
 ## Segunda semana
 ## Tercera semana
+Vacaciones de semana santa, planeación y elaboración de prácticas
 ## Cuarta semana
+Elaboración de demo, práctica de hongos, reunión de NaTec miercoles 23 de Abril
 # Mayo
 ## Primera semana
+Elaboración de práctica de 
 ## Segunda semana
 ## Tercera semana
 ## Cuarta semana
