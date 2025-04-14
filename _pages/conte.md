@@ -2,6 +2,12 @@
 layout: splash
 permalink: /conte/
 hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+excerpt: >
+  Contenidos y recursos del grupo.<br />
+  <small><a href="https://docs.google.com/forms/d/13wQol1nFAuAz1rl64Ph75WmIGqtalhrLBy1rZt4yMmQ/edit?pli=1">Liga de registro v4.26.2</a></small>
 feature_row:
   - image_path: /assets/images/Libros_de_todos_los_tiempos.jpg
     alt: "customizable"
