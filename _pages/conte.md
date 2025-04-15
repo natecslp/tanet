@@ -13,7 +13,7 @@ feature_row:
     alt: "customizable"
     title: "Recursos para estudio"
     excerpt: "¡Libros, guías, páginas web, revistás imagenes y más, todo recopilado para la comunidad!"
-    url: "/indirec/"
+    url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "¡Da click aquí!"
   - image_path: /assets/images/PHOTO-2025-04-14-16-20-28.jpg
