@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Recursos de estudio"
 categories:
   - Recursos
