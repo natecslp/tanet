@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /conte/
+permalink: /convoc/
 hidden: true
 header:
   overlay_color: "#5e616c"
@@ -11,23 +11,23 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/Libros_de_todos_los_tiempos.jpg
     alt: "customizable"
-    title: "Recursos para estudio"
-    excerpt: "¡Libros, guías, páginas web, revistás imagenes y más, todo recopilado para la comunidad!"
-    url: "/indirec/"
+    title: Olimpiadas"
+    excerpt: "Física, Qui1mica, Biología y Astronomía. ¿Qué tanto sabes?"
+    url: "/ksjdhf/"
     btn_class: "btn--primary"
     btn_label: "¡Da click aquí!"
   - image_path: /assets/images/PHOTO-2025-04-14-16-20-28.jpg
     alt: "fully responsive"
-    title: "Prácticas y experimentos"
-    excerpt: "Nuestros trabajos, escritos por estudiantes para estudiantes: ¡cohetes, cultivos, telescopios, disecciones y más!."
-    url: "/inidprac/"
+    title: "Concursos internos"
+    excerpt: "Nuestros concursos, escritos por estudiantes para estudiantes
+    url: "/ksjdhf/"
     btn_class: "btn--primary"
     btn_label: "¡Da click aquí!"
   - image_path: /assets/images/7827785878_34859830a8_z.jpg
     alt: "100% free"
-    title: "Convocatorias y resultados"
-    excerpt: "Convocatorias nativas y externas, así como sus resultados correspondientes actualizados lo máspronto posible"
-    url: "/convoc/"
+    title: "Feria de Textos de Otoño"
+    excerpt: "Feria nacional con el objetivo de difundir la ciencia. Escrito por jovenes para niños"
+    url: "/ksjdhf/"
     btn_class: "btn--primary"
     btn_label: "¡Da click aquí!"  
 ---
