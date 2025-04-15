@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/PHOTO-2025-04-14-16-20-28.jpg
     alt: "fully responsive"
     title: "Concursos internos"
-    excerpt: "Nuestros concursos, escritos por estudiantes para estudiantes
+    excerpt: "Nuestros concursos, escritos por estudiantes para estudiantes"
     url: "/ksjdhf/"
     btn_class: "btn--primary"
     btn_label: "¡Da click aquí!"
