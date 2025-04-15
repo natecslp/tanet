@@ -20,7 +20,7 @@ feature_row:
     alt: "fully responsive"
     title: "Prácticas y experimentos"
     excerpt: "Nuestros trabajos,e scritos por estudiantes para estudiantes: ¡cohetes, cultivos, telescopios, disecciones y más!."
-    url: "/docs/layouts/"
+    url: "/inidprac/"
     btn_class: "btn--primary"
     btn_label: "¡Da click aquí!"
   - image_path: /assets/images/7827785878_34859830a8_z.jpg

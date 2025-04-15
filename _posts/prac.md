@@ -1,0 +1,22 @@
+---
+layout: single
+title: "Prácticas"
+categories:
+  - Recursos
+permalink: /inidprac/
+tags:
+  - prácticas
+  - estudio
+link: https://drive.google.com/drive/folders/1z2PNRFo30eYgkZhNdap3EecNGmBhdLLf?usp=sharing
+---
+
+Esta publicación sirve como indice de los contenidos en la carpeta de drive.
+
+
+
+   | Nombre del recurso              | Materia | Tipo de recurso | 
+|----------------------------|-----------------------|---------------------|
+| Principios de bioquímica de Lehninger             | Química                    | Libro en pdf           |
+| Campbell de biología           | Biología                   |  Líbro en PDF                |
+| Guía  para Telescopios Dobsonianos  | Astronomía                 | Página Web                  |
+| Física de Feynmann             | Física                     | Líbro en PDF               |
