@@ -1,6 +1,6 @@
 ---
 permalink: /olimpic/
-title: "Ranking"
+title: "Olimpiadas de Ciencias Naturales"
 layout: single
 ---
 ## OLIMPIADAS

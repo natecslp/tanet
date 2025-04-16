@@ -1,13 +1,13 @@
 ---
 permalink: /concursoint/
-title: "Ranking"
+title: "Concursos"
 layout: single
 ---
-## OLIMPIADAS
+## Concursos Internos
 
    | Convocatoria                 | Liga de registro | Fecha de cierre |
 |----------------------------|-----------------------|---------------------|
-| OEB (Bio)         | LINK                  | FECHA                   |
-| OPF  (Física)        | LINK                    | FECHA                  |
-| OEQ (Química)   | LINK                     | FECHA                   |
-| OPA (Astronomía)            | LINK                     | FECHA                   |
+| Olimpiada Escolar Bio         | LINK                  | FECHA                   |
+| Olimpiada Escolar Física         | LINK                    | FECHA                  |
+| Olimpiada Escolar Química    | LINK                     | FECHA                   |
+| Olimpiada Escolar Astronomía            | LINK                     | FECHA                   |
