@@ -3,7 +3,7 @@ layout: splash
 permalink: /FTO/
 hidden: true
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#8cdd35"
   overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
   FERIA DE TEXTOS DE OTOÑO.<br />

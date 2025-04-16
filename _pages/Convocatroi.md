@@ -23,7 +23,7 @@ feature_row:
     url: "/concursoint/"
     btn_class: "btn--primary"
     btn_label: "¡Da click aquí!"
-  - image_path: /assets/images/7b93fe6d9-9fd3-4f85-8977-01816ccc578f.jpg
+  - image_path: /assets/images/b93fe6d9-9fd3-4f85-8977-01816ccc578f.jpg
     alt: "100% free"
     title: "Feria de Textos de Otoño"
     excerpt: "Feria nacional con el objetivo de difundir la ciencia. Escrito por jovenes para niños"
