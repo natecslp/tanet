@@ -12,13 +12,19 @@ feature_row:
   - image_path: /assets/images/Libros_de_todos_los_tiempos.jpg
     alt: "customizable"
     title: "Convocatoria"
-    link: https://drive.google.com/file/d/1L4iqCJCnW_5hduzEau9DZlIA3ZS-C7mc/view?usp=sharing
+    url: "/cinsasoidk/"
     btn_class: "btn--primary"
     btn_label: "¡Da click aquí!"
   - image_path: /assets/images/PHOTO-2025-04-14-16-20-28.jpg
     alt: "fully responsive"
     title: "Resultados"
     url: "/reulti/"
+    btn_class: "btn--primary"
+    btn_label: "¡Da click aquí!"
+  - image_path: /assets/images/PHOTO-2025-04-14-16-20-28.jpg
+    alt: "fully responsive"
+    title: "Contacto"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "¡Da click aquí!"
 ---
