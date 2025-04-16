@@ -7,8 +7,9 @@ NaTec es un grupo estudiantil del Tecnologico de Monterrey Campus San Luis Potos
 
 # CONTACTOS
 ## Grupo
-Correo del grupo: natecslpœgmail.com
+Correo del grupo: natecslp@gmail.com
 
 ## Profesores
-Jose Manuel Olais Govea, Correo: Olaisœtec.mx
-Gabriel Castilla Arroyo, Correo: gabriel.castilla@tec.mx
+### Jose Manuel Olais Govea, Correo: Olais@tec.mx
+
+### Gabriel Castilla Arroyo, Correo: gabriel.castilla@tec.mx
